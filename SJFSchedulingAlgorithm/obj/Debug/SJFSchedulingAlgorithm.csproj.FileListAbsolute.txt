@@ -1,0 +1,5 @@
+c:\users\ece\documents\visual studio 2015\Projects\SJFSchedulingAlgorithm\SJFSchedulingAlgorithm\bin\Debug\SJFSchedulingAlgorithm.exe
+c:\users\ece\documents\visual studio 2015\Projects\SJFSchedulingAlgorithm\SJFSchedulingAlgorithm\bin\Debug\SJFSchedulingAlgorithm.pdb
+c:\users\ece\documents\visual studio 2015\Projects\SJFSchedulingAlgorithm\SJFSchedulingAlgorithm\obj\Debug\SJFSchedulingAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\ece\documents\visual studio 2015\Projects\SJFSchedulingAlgorithm\SJFSchedulingAlgorithm\obj\Debug\SJFSchedulingAlgorithm.exe
+c:\users\ece\documents\visual studio 2015\Projects\SJFSchedulingAlgorithm\SJFSchedulingAlgorithm\obj\Debug\SJFSchedulingAlgorithm.pdb
